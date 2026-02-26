@@ -1,7 +1,8 @@
-## Hi there 👋
+## Welcome To My Profile!
 
 <h2> I can do what i want</h2>
 
+<hr>
 <!--
 **pidzzii-pis/pidzzii-pis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
