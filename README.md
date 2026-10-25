@@ -14,8 +14,7 @@
 
 ## 🧑‍💻 Tentang Saya
 
-- 🔭 Sedang mengerjakan: **(isi proyek yang sedang kamu kerjakan)**
-- 🌱 Sedang belajar: **(isi, misalnya TypeScript, Next.js)**
+- 🌱 Sedang belajar: **CodeIgniter, React**
 - 📍 Berdomisili di: **Indonesia**
 - 🌐 Lihat karya-karya saya di **[hafidzyporto.vercel.app](https://hafidzyporto.vercel.app)**
 
