@@ -1,4 +1,4 @@
-<h1 align="center">Hai, saya Hafidz 👋</h1>
+<h1 align="center">Hai, saya Hafidzy </h1>
 
 <p align="center">
   <em>Developer yang suka membangun sesuatu yang berguna dan enak dilihat.</em>
