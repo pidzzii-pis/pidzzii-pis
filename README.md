@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://hafidzy.vercel.app">
-    <img src="https://img.shields.io/badge/Portofolio-hafidzy.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portofolio" />
+  <a href="https://hafidzyporto.vercel.app">
+    <img src="https://img.shields.io/badge/Portofolio-hafidzyporto.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portofolio" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 - 🔭 Sedang mengerjakan: **(isi proyek yang sedang kamu kerjakan)**
 - 🌱 Sedang belajar: **(isi, misalnya TypeScript, Next.js)**
 - 📍 Berdomisili di: **Indonesia**
-- 🌐 Lihat karya-karya saya di **[hafidzy.vercel.app](https://hafidzy.vercel.app)**
+- 🌐 Lihat karya-karya saya di **[hafidzyporto.vercel.app](https://hafidzyporto.vercel.app)**
 
 ---
 
@@ -45,7 +45,7 @@
 ## 📫 Hubungi Saya
 
 <p align="center">
-  <a href="https://hafidzy.vercel.app"><img src="https://img.shields.io/badge/Portofolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://hafidzyporto.vercel.app"><img src="https://img.shields.io/badge/Portofolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/USERNAME_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/USERNAME_TWITTER"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
