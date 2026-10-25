@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://hafidzyporto.vercel.app">
-    <img src="https://img.shields.io/badge/Portofolio-hafidzyporto.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portofolio" />
+    <img src="https://img.shields.io/badge/Portofolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portofolio" />
   </a>
 </p>
 
