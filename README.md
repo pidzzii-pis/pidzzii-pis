@@ -1,7 +1,7 @@
 <h1 align="center">Hai, saya Hafidzy</h1>
 
 <p align="center">
-  <em>Developer yang suka membangun sesuatu yang berguna dan enak dilihat.</em>
+  <em>Junior Programmer.</em>
 </p>
 
 <p align="center">
@@ -52,5 +52,6 @@
   <a href="https://instagram.com/pidzzii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <!-- <a href="https://twitter.com/USERNAME_TWITTER"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> -->
   <a href="mailto:fidzymohamedgmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://tiktok.com/@pidzziii"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <!-- <a href="https://wa.me/628XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> -->
 </p>
